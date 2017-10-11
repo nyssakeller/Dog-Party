@@ -1,0 +1,7 @@
+<style.css>
+
+#img1
+{
+	height : 100px;
+	weight : 100px;
+}
